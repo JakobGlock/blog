@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Immerse"
+date:   2014-10-10 00:10:00 +0100
+categories: Music
+tags: [Immerse, ElectroAcoustic, Composition, Sound]
+---
+
+An immersive journey through ambience and noise, created as my final project during my undergraduate study.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/238027977&amp;color=%23060606&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>

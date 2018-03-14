@@ -1,0 +1,10 @@
+title: Jakob Glock
+email: info@jakobglock.com
+description: > # this means to ignore newlines until "baseurl:"
+  Creative Coder.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://jakobglock.me" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+exclude: []

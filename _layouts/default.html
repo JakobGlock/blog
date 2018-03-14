@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Jakob Glock</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
+  <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/styles.css">
+</head>
+
+<body>
+  <div class="pure-menu custom-sidenav">
+    <ul class="pure-menu-list">
+      <li class="pure-menu-item"><a href="{{site.baseurl}}/index.html" class="pure-menu-link">Home</a></li>
+      <li class="pure-menu-item"><a href="{{site.baseurl}}/about.html" class="pure-menu-link">About</a></li>
+      <li class="pure-menu-item"><a href="{{site.baseurl}}/projects.html" class="pure-menu-link">Projects</a></li>
+      <li class="pure-menu-item"><a href="{{site.baseurl}}/contact.html" class="pure-menu-link">Contact</a></li>
+    </ul>
+  </div>
+
+  <div class="container">
+    <div id= "content" class="content">
+      {{ content }}
+    </div>
+  </div>
+</body>
+
+</html>

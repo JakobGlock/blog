@@ -1,0 +1,67 @@
+* {
+  background-color: #FFFFFF;
+}
+  body {
+    font-family: Ubuntu, "Times new roman", Arial, San-serif, Ubuntu;
+    color: #444444;
+    font-size: 15pt;
+  }
+
+  .custom-sidenav {
+    height: 100%;
+    width: 150px;
+    position: fixed;
+  }
+
+  .container {
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-bottom: 25px;
+  }
+
+  .custom-grid {
+    text-align: center;
+    margin: 0px;
+  }
+
+  img {
+  border: none;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  background: #ddd;
+  transition: transform .2s ease-in-out;
+}
+
+  a:hover img {
+  transform: scale(1.15);
+}
+
+figure {
+  border: 1px solid #ddd;
+  margin: 10px;
+  overflow: hidden;
+}
+
+.my-portrait {
+  float: left;
+}
+
+.about-text {
+  margin-left: 175px;
+}
+
+.project-title {
+  margin: 10px;
+}
+
+.post-link {
+  text-decoration: none;
+}
+
+.post-meta {
+  font-size: 14px;
+  color: #828282;
+}
