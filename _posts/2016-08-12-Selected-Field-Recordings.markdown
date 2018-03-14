@@ -4,6 +4,7 @@ title:  "Selected Field Recordings"
 date:   2016-08-12 08:00:00 +0100
 categories: Field-Recording
 tags: [Sound, Nature, Ambience, silence]
+permalink: projects/2016-08-12/selected-field-recordings
 ---
 
 Gales traveling through a radio mast.

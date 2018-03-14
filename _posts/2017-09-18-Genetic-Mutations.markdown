@@ -4,6 +4,7 @@ title:  "Evolution and Genetic Mutation"
 date:   2017-09-18 02:00:00 +0100
 categories: Project
 tags: [Drawing, Algorithm, Art, Evolution, Genetics, Mutation, C++, OpenFrameworks]
+permalink: projects/2017-09-18/genetic-mutations
 ---
 
 Exploring aesthetics through evolution and mutation.

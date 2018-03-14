@@ -4,6 +4,7 @@ title:  "Isolation EP"
 date:   2014-01-27 12:00:00 +0100
 categories: Music
 tags: [Music, IDM, UkTrends, Glitch]
+permalink: projects/2014-01-27/isolation-ep
 ---
 
 An EP released under the alias of Name_pending on the digital record label UkTrends.

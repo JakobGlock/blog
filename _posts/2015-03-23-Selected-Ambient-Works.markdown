@@ -4,6 +4,7 @@ title:  "Selected Ambient Works"
 date:   2015-12-25 11:00:00 +0100
 categories: Music
 tags: [Music, Ambient, Experimental]
+permalink: projects/2015-12-25/selected-ambient-works
 ---
 
 A selection of ambient pieces made around 2014-2016...

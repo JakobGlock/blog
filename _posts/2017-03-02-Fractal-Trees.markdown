@@ -4,6 +4,7 @@ title:  "Fractal Trees"
 date:   2017-03-02 23:52:03 +0100
 categories: Algorithm
 tags: [Fractal, Tree, Recursion, Algorithm, Art, C++, OpenFrameworks]
+permalink: projects/2017-03-02/fractal-trees
 ---
 
 Exploring the branching structures found in plants and trees, through the use of recursion.

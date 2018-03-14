@@ -4,6 +4,7 @@ title:  "Pendulum Drawings"
 date:   2017-04-29 08:00:00 +0100
 categories: Field-Recording
 tags: [Drawing, Pendulum, Analog, Art]
+permalink: projects/2017-04-24/pendulum-drawings
 ---
 
 Exploring the use of a pendulum to draw figures onto paper.
