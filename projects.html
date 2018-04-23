@@ -1,16 +1,15 @@
 ---
 layout: default
 permalink: /projects/
+active: projects
 ---
-<h1>Projects</h1>
-
 <div class="pure-g custom-grid">
   {% for post in site.posts %}
-  <div class="pure-u-1-4 pure-u-lg-1-8">
+  <div class="pure-u-1-2 pure-u-lg-1-4 custom-grid">
     <figure>
-      <a class="post-image" href="{{ post.url | relative_url }}"><img class="pure-img" src="{{site.baseurl}}/assets/images/project_tiles/{{post.title}}.jpg" alt="Generative Drawing"></a>
+      <img class="pure-img" src="{{site.baseurl}}/assets/images/project_tiles/{{post.title}}.jpg" alt="Generative Drawing">
+      <a class="post-image" href="{{ post.url | relative_url }}"><h4 class="project-title">{{post.title}}</h4></a>
     </figure>
-    <a class="post-link" href="{{ post.url | relative_url }}"><h4 class="project-title">{{post.title}}</h4></a>
   </div>
   {% endfor %}
 </div>

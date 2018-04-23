@@ -14,4 +14,4 @@ You can listen here for free....
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=898WslH5bFw&list=PL2jJDIuzu8JtrI9rsljR7eTljVT2qCxwd" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Or buy it from <a href="https://bleep.com/release/49993-namepending-isolation-ep">here</a>.
+Or buy it from <a class='post-links' href="https://bleep.com/release/49993-namepending-isolation-ep">here</a>.

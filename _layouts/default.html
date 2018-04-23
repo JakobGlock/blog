@@ -7,27 +7,45 @@
   <meta name="description" content="Creative Coder.">
   <meta name="keywords" content="Jakob Glock, Cornwall, Code, Programming, Creative, OpenFrameworks, Python">
   <meta name="author" content="Jakob Glock">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
   <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
   <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css">
   <link rel="stylesheet" href="{{site.baseurl}}/assets/styles.css">
 </head>
 
 <body>
-  <div class="pure-menu custom-sidenav">
-    <ul class="pure-menu-list">
-      <li class="pure-menu-item"><a href="{{site.baseurl}}/" class="pure-menu-link">Home</a></li>
-      <li class="pure-menu-item"><a href="{{site.baseurl}}/about" class="pure-menu-link">About</a></li>
-      <li class="pure-menu-item"><a href="{{site.baseurl}}/projects" class="pure-menu-link">Projects</a></li>
-      <li class="pure-menu-item"><a href="{{site.baseurl}}/contact" class="pure-menu-link">Contact</a></li>
-    </ul>
-  </div>
 
-  <div class="container">
-    <div id= "content" class="content">
+  {% assign current = page.url | downcase | split: '/' %}
+
+    <nav id='menu-container'>
+      <ul class='navbar'>
+        <li><a {% if page.active == 'home' %}class='active'{% endif %} href="{{site.baseurl}}/">Home</a></li>
+        <li><a {% if page.active == 'about' %}class='active'{% endif %}  href="{{site.baseurl}}/about">About</a></li>
+        <li><a {% if page.active == 'projects' %}class='active'{% endif %}  href="{{site.baseurl}}/projects">Projects</a></li>
+        <li><a {% if page.active == 'contact' %}class='active'{% endif %}  href="{{site.baseurl}}/contact">Contact</a></li>
+      </ul>
+    </nav>
+
+    <div id='main-container'>
       {{ content }}
     </div>
-  </div>
+
+    <footer id='footer'>
+      <div class='social'>
+        <a href="mailto:info@jakobglock.com"><i class='ion-android-mail'></i></a>
+        <a href="http://www.twitter.com/jakob_glock"><i class='ion-social-twitter'></i></a>
+        <a href="http://www.github.com/JakobGlock"><i class='ion-social-github'></i></a>
+      </div>
+      <div class='copyright'>
+        <span>©</span>
+        <span>2018</span>
+        <span>Jakob Glock</span>
+      </div>
+    </footer>
+
 </body>
 
 </html>
