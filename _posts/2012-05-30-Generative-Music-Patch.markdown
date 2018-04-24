@@ -9,4 +9,4 @@ permalink: projects/2012-05-30/generative-music-patch
 A generative music patch produced during my undergraduate study, made using Max/MSP. It uses
 probability to generate both the melody and the drum pattern.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/idEhsea_nKk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/idEhsea_nKk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>

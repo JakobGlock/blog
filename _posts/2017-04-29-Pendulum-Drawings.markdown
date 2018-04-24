@@ -9,7 +9,7 @@ permalink: projects/2017-04-24/pendulum-drawings
 
 Exploring the use of a pendulum to draw figures onto paper.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c3iq19qJnj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/c3iq19qJnj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 A selection of outputs:
 
