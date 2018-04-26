@@ -54,7 +54,7 @@ body {
   width: 10px;
   height: 100%;
   border-bottom: 3px solid #52616B;
-  transition: 0.4s;
+  transition: 0.4s ease-in;
 }
 
 .navbar li a:hover:after {
