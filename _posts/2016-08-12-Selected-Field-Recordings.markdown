@@ -19,7 +19,7 @@ The wind howls as it moves around electrical wires overhead.
 
 <audio src="https://aporee.org/maps/files/WindElectricalWiresDPA40602310115.mp3" controls></audio>
 
-<a  class='post-links'href='https://aporee.org/maps/?loc=30717&m=satellite'>More info.</a>
+<a class='post-links' href='https://aporee.org/maps/?loc=30717&m=satellite'>More info.</a>
 
 ---
 
