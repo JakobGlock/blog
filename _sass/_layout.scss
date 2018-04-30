@@ -1,0 +1,55 @@
+#menu-container {
+  width: 100%;
+  min-width: $min-width;
+  top: 0;
+  height: 40px;
+  padding-top: 20px;
+  user-select: none;
+  position: fixed;
+  z-index: 1;
+  box-shadow: 0px 1px 1px $nav-shadow-color;
+}
+
+#main-container {
+  min-width: $min-width;
+  margin-top: calc(125px / 2 + 20px);
+  margin-left: $side-margin;
+  margin-right: $side-margin;
+  margin-bottom: calc(125px / 2 + 20px);
+  line-height: 1.6;
+}
+
+#footer {
+    min-width: $min-width;
+    position: fixed;
+    height: calc(125px / 2);
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    vertical-align: center;
+    line-height: calc(125px / 2);
+
+    box-shadow: 0px -1px 1px $nav-shadow-color;
+    user-select: none;
+}
+
+@media only screen and (max-width: 700px) {
+  #menu-container {
+    height: auto;
+    padding-bottom: 10px;
+  }
+
+  #main-container {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+
+@media (min-width: 700px) and (max-width: $max-width) {
+  #main-container {
+    margin-left: 75px;
+    margin-right: 75px;
+  }
+}

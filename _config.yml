@@ -8,3 +8,6 @@ url: "http://jakobglock.me" # the base hostname & protocol for your site, e.g. h
 # Build settings
 markdown: kramdown
 exclude: []
+
+sass:
+  style: compressed
