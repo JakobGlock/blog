@@ -1,0 +1,11 @@
+
+{% assign current = page.url | downcase | split: '/' %}
+
+<nav id='menu-container'>
+  <ul class='navbar'>
+    <li><a {% if page.active == 'home' %}class='active'{% endif %} href="{{site.baseurl}}/">Home</a></li>
+    <li><a {% if page.active == 'about' %}class='active'{% endif %}  href="{{site.baseurl}}/about">About</a></li>
+    <li><a {% if page.active == 'projects' %}class='active'{% endif %}  href="{{site.baseurl}}/projects">Projects</a></li>
+    <li><a {% if page.active == 'contact' %}class='active'{% endif %}  href="{{site.baseurl}}/contact">Contact</a></li>
+  </ul>
+</nav>
