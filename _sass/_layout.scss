@@ -22,14 +22,14 @@
 #footer {
     min-width: $min-width;
     position: fixed;
-    height: calc(125px / 2);
+    height: calc(125px / 3);
     bottom: 0px;
     left: 0px;
     right: 0px;
     margin-bottom: 0px;
     text-align: center;
     vertical-align: center;
-    line-height: calc(125px / 2);
+    line-height: calc(125px / 3);
 
     box-shadow: 0px -1px 1px $nav-shadow-color;
     user-select: none;
