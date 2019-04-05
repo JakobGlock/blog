@@ -16,37 +16,37 @@ Selected images.....
 <div class="pure-g custom-grid">
   <div class="pure-u-1-2 pure-u-lg-1-3">
     <figure>
-      <a href="{{ site.url }}/assets/images/2019-03-30/image01.jpg"><img class="pure-img" src="{{ site.url }}/assets/images/2019-03-30/image01.jpg" alt="Plotter Drawing"></a>
+      <a href="{{ site.url }}/assets/images/2019-03-30/image01.jpeg"><img class="pure-img" src="{{ site.url }}/assets/images/2019-03-30/image01.jpeg" alt="Plotter Drawing"></a>
     </figure>
   </div>
 
   <div class="pure-u-1-2 pure-u-lg-1-3">
     <figure>
-      <a href="{{ site.url }}/assets/images/2019-03-30/image02.jpg"><img class="pure-img" src="{{ site.url }}/assets/images/2019-03-30/image02.jpg" alt="Plotter Drawing"></a>
+      <a href="{{ site.url }}/assets/images/2019-03-30/image02.jpeg"><img class="pure-img" src="{{ site.url }}/assets/images/2019-03-30/image02.jpeg" alt="Plotter Drawing"></a>
     </figure>
   </div>
 
   <div class="pure-u-1-2 pure-u-lg-1-3">
     <figure>
-      <a href="{{ site.url }}/assets/images/2019-03-30/image03.jpg"><img class="pure-img" src="{{ site.url }}/assets/images/2019-03-30/image03.jpg" alt="Plotter Drawing"></a>
+      <a href="{{ site.url }}/assets/images/2019-03-30/image03.jpeg"><img class="pure-img" src="{{ site.url }}/assets/images/2019-03-30/image03.jpeg" alt="Plotter Drawing"></a>
     </figure>
   </div>
 
   <div class="pure-u-1-2 pure-u-lg-1-3">
     <figure>
-      <a href="{{ site.url }}/assets/images/2019-03-30/image04.jpg"><img class="pure-img" src="{{ site.url }}/assets/images/2019-03-30/image04.jpg" alt="Plotter Drawing"></a>
+      <a href="{{ site.url }}/assets/images/2019-03-30/image04.jpeg"><img class="pure-img" src="{{ site.url }}/assets/images/2019-03-30/image04.jpeg" alt="Plotter Drawing"></a>
     </figure>
   </div>
 
   <div class="pure-u-1-2 pure-u-lg-1-3">
     <figure>
-      <a href="{{ site.url }}/assets/images/2019-03-30/image05.jpg"><img class="pure-img" src="{{ site.url }}/assets/images/2019-03-30/image05.jpg" alt="Plotter Drawing"></a>
+      <a href="{{ site.url }}/assets/images/2019-03-30/image05.jpeg"><img class="pure-img" src="{{ site.url }}/assets/images/2019-03-30/image05.jpeg" alt="Plotter Drawing"></a>
     </figure>
   </div>
 
   <div class="pure-u-1-2 pure-u-lg-1-3">
     <figure>
-      <a href="{{ site.url }}/assets/images/2019-03-30/image06.jpg"><img class="pure-img" src="{{ site.url }}/assets/images/2019-03-30/image06.jpg" alt="Plotter Drawing"></a>
+      <a href="{{ site.url }}/assets/images/2019-03-30/image06.jpeg"><img class="pure-img" src="{{ site.url }}/assets/images/2019-03-30/image06.jpeg" alt="Plotter Drawing"></a>
     </figure>
   </div>
 </div>
