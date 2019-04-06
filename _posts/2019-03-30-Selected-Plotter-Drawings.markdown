@@ -11,7 +11,7 @@ Selected plotter drawings created in the years 2018-2019.
 
 Created using the programming language Python and plotted using an <a class='post-links' href='http://www.axidraw.com'>AxiDraw</a> plotter.
 
-Selected images.....
+Selected images:
 
 <div class="pure-g custom-grid">
   <div class="pure-u-1-2 pure-u-lg-1-3">
