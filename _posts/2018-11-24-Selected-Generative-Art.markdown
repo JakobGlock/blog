@@ -20,7 +20,7 @@ Selected images:
 
   <div class="pure-u-1-2 pure-u-lg-1-4">
     <figure>
-      <a href="{{ site.url }}/assets/images/2018-11-24/1.jpeg"><img class="pure-img" src="{{ site.url }}/assets/images/2018-11-24/1.jpeg" alt="Generative Art"></a>
+      <a href="{{ site.url }}/assets/images/2018-11-24/1.png"><img class="pure-img" src="{{ site.url }}/assets/images/2018-11-24/1.png" alt="Generative Art"></a>
     </figure>
   </div>
 
