@@ -11,7 +11,9 @@ permalink: projects/2017-09-18/genetic-mutations
 
 Exploring aesthetics through evolution and mutation.
 
-Selected images.....
+An in depth write up of this project can be found <a class='post-links' href='http://doc.gold.ac.uk/compartsblog/index.php/work/evolve-and-mutate/'>here</a>.
+
+Selected images:
 
 <div class="pure-g custom-grid">
   <div class="pure-u-1-2 pure-u-lg-1-4">
