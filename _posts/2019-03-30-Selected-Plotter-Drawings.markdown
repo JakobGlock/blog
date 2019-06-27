@@ -7,6 +7,8 @@ tags: [Drawing, Algorithm, Art, Plotter, AxiDraw, Micron, Python, pyCairo]
 permalink: projects/2019-03-30/selected-plotter-drawings
 ---
 
+<a class='post-links' href='https://github.com/JakobGlock/Generative-Art'>Some of the code can be found here.</a>
+
 Selected plotter drawings created in the years 2018-2019.
 
 Created using the programming language Python and plotted using an <a class='post-links' href='http://www.axidraw.com'>AxiDraw</a> plotter.

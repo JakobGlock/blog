@@ -7,6 +7,8 @@ tags: [Drawing, Algorithm, Art, Generative, Python, pyCairo]
 permalink: projects/2018-11-24/selected-generative-art
 ---
 
+<a class='post-links' href='https://github.com/JakobGlock/Generative-Art'>Some of the code can be found here.</a>
+
 Generative art exploring various ideas, all created using Python.
 
 Selected images:
